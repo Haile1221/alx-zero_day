@@ -1,2 +1,1 @@
-My first readme
-It was edited to the latest.
+My first edited readme file.
